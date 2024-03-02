@@ -1,0 +1,25 @@
+{
+  "name": "sharkyteeea",
+  "version": "1.0.0",
+  "description": "Basic deomstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mamunr231/sharkyteeea.git"
+  },
+  "dependencies": {
+    "sharkyteeea": "1.0.0",
+    "minti_fulkerson": "0.1.4",
+    "dimonpakim0n": "1.0.0",
+    "maladoy4aek": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mamunr231/sharkyteeea/issues"
+  },
+  "homepage": "https://github.com/mamunr231/sharkyteeea#readme"
+}
